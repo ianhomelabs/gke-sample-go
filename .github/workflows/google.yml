@@ -42,7 +42,7 @@ env:
   PROJECT_ID: 'elated-oxide-453805-h7'
   GAR_LOCATION: 'asia-southeast1'
   GKE_CLUSTER: 'development-cluster'
-  GKE_ZONE: 'asia-southeast1'
+  GKE_ZONE: 'asia-southeast1-a'
   DEPLOYMENT_NAME: 'go-hello-world'
   REPOSITORY: 'gke-sample-go'
   IMAGE: 'hello-world'
